@@ -385,14 +385,14 @@ body {
 
 @media (max-width: 768px) {
   .img1 {
-    width: 30vw;
-    height: 10vw;
+    width: 35vw;
+    height: 12vw;
   }
   .b1 {
-    margin-top: 1%;
-    width: 18vw;
-    height: 5vw;
-    font-size: 1.2vw;
+    margin-top: 2%;
+    width: 22vw;
+    height: 7vw;
+    font-size: 2.2vw;
   }
   .sobre .sub-container {
     flex-direction: column-reverse;
@@ -433,6 +433,24 @@ body {
   }
 
   .b4 {
-    height: 45vw;
+    height: 64vw;
+  }
+
+  .b4 .imgf {
+    width: 28vw;
+    height: 10vw;
+  }
+
+  .b4 .dad {
+    font-size: 2.2vw;
+  }
+
+  .b4 .at {
+    font-size: 2.2vw;
+  }
+
+  .b4 .copy {
+    font-size: 2vw;
   }
 }
+
