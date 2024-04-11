@@ -432,6 +432,14 @@ body {
     margin-left: 10%;
   }
 
+  .ctt h2 {
+    font-size: 3.2vw;
+  }
+
+  .ctt h3 {
+    font-size: 2vw;
+  }
+
   .b4 {
     height: 64vw;
   }
