@@ -263,7 +263,7 @@ body {
 
 .b3 {
   width: 78vw;
-  height: 39vw;
+  height: 35vw;
   border-radius: 15px;
   border-color: transparent;
   z-index: 2;
@@ -439,6 +439,10 @@ body {
 
   .ctt h3 {
     font-size: 2vw;
+  }
+
+  .b3 {
+  height: 39vw;
   }
 
   .b4 {
